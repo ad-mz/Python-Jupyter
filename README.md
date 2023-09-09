@@ -2,7 +2,7 @@
 
 ## Some questions I'd like to answer using our dataset "Most streamed songs on Spotify 2023"
 
-1. Artists with most songs streamed?<br>
+1. Top 10 artists with most songs streamed?<br>
 2. Oldest song in the most streamed songs in 2023? (by release date)<br> 
 3. Most streamed songs with the most number of artists in a song<br>
 4. Which songs are added in most playlists?<br>
