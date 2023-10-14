@@ -1,5 +1,7 @@
 # My second case study for data analytics. Practicing data analysis using Python/Jupyter notebook
 
+Click [here](https://github.com/ad-mz/case_study2/blob/main/case_study.ipynb) to view 
+
 ## Some questions I'd like to answer using our dataset "Most streamed songs on Spotify 2023"
 
 - Top 10 artists with most songs streamed?<br>
