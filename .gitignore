@@ -1,1 +1,3 @@
- myenv/
+
+.venv/
+case_study2.code-workspace/

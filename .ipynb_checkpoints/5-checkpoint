@@ -1,0 +1,289 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\Adrian\anaconda3\envs\pymc_env
+
+  added / updated specs:
+    - pymc
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    arviz-0.16.1               |     pyhd8ed1ab_1         1.4 MB  conda-forge
+    brotli-1.1.0               |       hcfcfb64_1          19 KB  conda-forge
+    brotli-bin-1.1.0           |       hcfcfb64_1          20 KB  conda-forge
+    bzip2-1.0.8                |       h8ffe710_4         149 KB  conda-forge
+    ca-certificates-2023.7.22  |       h56e8100_0         146 KB  conda-forge
+    cached-property-1.5.2      |       hd8ed1ab_1           4 KB  conda-forge
+    cached_property-1.5.2      |     pyha770c72_1          11 KB  conda-forge
+    cachetools-5.3.1           |     pyhd8ed1ab_0          14 KB  conda-forge
+    cairo-1.18.0               |       h1fef639_0         1.4 MB  conda-forge
+    certifi-2023.7.22          |     pyhd8ed1ab_0         150 KB  conda-forge
+    cloudpickle-3.0.0          |     pyhd8ed1ab_0          24 KB  conda-forge
+    cons-0.4.6                 |     pyhd8ed1ab_0          14 KB  conda-forge
+    contourpy-1.1.1            |  py311h005e61a_1         181 KB  conda-forge
+    cycler-0.12.1              |     pyhd8ed1ab_0          13 KB  conda-forge
+    etuples-0.3.9              |     pyhd8ed1ab_0          17 KB  conda-forge
+    expat-2.5.0                |       h63175ca_1         221 KB  conda-forge
+    fastprogress-1.0.3         |     pyhd8ed1ab_0          17 KB  conda-forge
+    filelock-3.12.4            |     pyhd8ed1ab_0          15 KB  conda-forge
+    font-ttf-dejavu-sans-mono-2.37|       hab24e00_0         388 KB  conda-forge
+    font-ttf-inconsolata-3.000 |       h77eed37_0          94 KB  conda-forge
+    font-ttf-source-code-pro-2.038|       h77eed37_0         684 KB  conda-forge
+    font-ttf-ubuntu-0.83       |       hab24e00_0         1.9 MB  conda-forge
+    fontconfig-2.14.2          |       hbde0cde_0         186 KB  conda-forge
+    fonts-conda-ecosystem-1    |                0           4 KB  conda-forge
+    fonts-conda-forge-1        |                0           4 KB  conda-forge
+    fonttools-4.43.1           |  py311ha68e1ae_0         2.3 MB  conda-forge
+    freetype-2.12.1            |       hdaf720e_2         498 KB  conda-forge
+    fribidi-1.0.10             |       h8d14728_0          63 KB  conda-forge
+    getopt-win32-0.1           |       hcfcfb64_1          21 KB  conda-forge
+    gettext-0.21.1             |       h5728263_0         5.3 MB  conda-forge
+    graphite2-1.3.13           |             1000          97 KB  conda-forge
+    graphviz-8.1.0             |       h51cb2cd_0         1.1 MB  conda-forge
+    gts-0.7.6                  |       h6b5321d_4         184 KB  conda-forge
+    h5netcdf-1.2.0             |     pyhd8ed1ab_0          41 KB  conda-forge
+    h5py-3.10.0                |nompi_py311h0d04526_100         941 KB  conda-forge
+    harfbuzz-8.2.1             |       h7ab893a_0        1019 KB  conda-forge
+    hdf5-1.14.2                |nompi_h73e8ff5_100         1.9 MB  conda-forge
+    icu-73.2                   |       h63175ca_0        12.8 MB  conda-forge
+    intel-openmp-2023.2.0      |   h57928b3_50496         2.4 MB  conda-forge
+    kiwisolver-1.4.5           |  py311h005e61a_1          55 KB  conda-forge
+    krb5-1.21.2                |       heb0366b_0         694 KB  conda-forge
+    lcms2-2.15                 |       h67d730c_3         487 KB  conda-forge
+    lerc-4.0.0                 |       h63175ca_0         190 KB  conda-forge
+    libaec-1.1.2               |       h63175ca_1          33 KB  conda-forge
+    libblas-3.9.0              |     19_win64_mkl         4.8 MB  conda-forge
+    libbrotlicommon-1.1.0      |       hcfcfb64_1          69 KB  conda-forge
+    libbrotlidec-1.1.0         |       hcfcfb64_1          32 KB  conda-forge
+    libbrotlienc-1.1.0         |       hcfcfb64_1         241 KB  conda-forge
+    libcblas-3.9.0             |     19_win64_mkl         4.8 MB  conda-forge
+    libcurl-8.4.0              |       hd5e4a3a_0         314 KB  conda-forge
+    libdeflate-1.19            |       hcfcfb64_0         150 KB  conda-forge
+    libexpat-2.5.0             |       h63175ca_1         135 KB  conda-forge
+    libffi-3.4.2               |       h8ffe710_5          41 KB  conda-forge
+    libgd-2.3.3                |       h312136b_9         337 KB  conda-forge
+    libglib-2.78.0             |       he8f3873_0         2.5 MB  conda-forge
+    libhwloc-2.9.3             |default_haede6df_1009         2.5 MB  conda-forge
+    libiconv-1.17              |       h8ffe710_0         698 KB  conda-forge
+    libjpeg-turbo-3.0.0        |       hcfcfb64_1         804 KB  conda-forge
+    liblapack-3.9.0            |     19_win64_mkl         4.8 MB  conda-forge
+    libpng-1.6.39              |       h19919ed_0         336 KB  conda-forge
+    libsqlite-3.43.2           |       hcfcfb64_0         827 KB  conda-forge
+    libssh2-1.11.0             |       h7dfc565_0         261 KB  conda-forge
+    libtiff-4.6.0              |       h6e2ebb7_2         769 KB  conda-forge
+    libwebp-1.3.2              |       hcfcfb64_1          69 KB  conda-forge
+    libwebp-base-1.3.2         |       hcfcfb64_0         263 KB  conda-forge
+    libxcb-1.15                |       hcd874cb_0         947 KB  conda-forge
+    libxml2-2.11.5             |       hc3477c8_1         1.5 MB  conda-forge
+    libzlib-1.2.13             |       hcfcfb64_5          54 KB  conda-forge
+    logical-unification-0.4.6  |     pyhd8ed1ab_0          18 KB  conda-forge
+    m2w64-gcc-libgfortran-5.3.0|                6         342 KB  conda-forge
+    m2w64-gcc-libs-5.3.0       |                7         520 KB  conda-forge
+    m2w64-gcc-libs-core-5.3.0  |                7         214 KB  conda-forge
+    m2w64-gmp-6.1.0            |                2         726 KB  conda-forge
+    m2w64-libwinpthread-git-5.0.0.4634.697f757|                2          31 KB  conda-forge
+    matplotlib-base-3.8.0      |  py311h6e989c2_2         7.4 MB  conda-forge
+    minikanren-1.0.3           |     pyhd8ed1ab_0          23 KB  conda-forge
+    mkl-2023.2.0               |   h6a75c08_50496       138.0 MB  conda-forge
+    msys2-conda-epoch-20160418 |                1           3 KB  conda-forge
+    multipledispatch-0.6.0     |             py_0          12 KB  conda-forge
+    munkres-1.1.4              |     pyh9f0ad1d_0          12 KB  conda-forge
+    numpy-1.25.2               |  py311h0b4df5a_0         7.0 MB  conda-forge
+    openjpeg-2.5.0             |       h3d672ee_3         231 KB  conda-forge
+    openssl-3.1.3              |       hcfcfb64_0         7.1 MB  conda-forge
+    packaging-23.2             |     pyhd8ed1ab_0          48 KB  conda-forge
+    pandas-2.1.1               |  py311hf63dbb6_1        13.2 MB  conda-forge
+    pango-1.50.14              |       h07c897b_2         432 KB  conda-forge
+    pcre2-10.40                |       h17e33f8_0         1.9 MB  conda-forge
+    pillow-10.1.0              |  py311h4dd8a23_0        43.9 MB  conda-forge
+    pip-23.3                   |     pyhd8ed1ab_0         1.3 MB  conda-forge
+    pixman-0.42.2              |       h63175ca_0         445 KB  conda-forge
+    pthread-stubs-0.4          |    hcd874cb_1001           6 KB  conda-forge
+    pthreads-win32-2.9.1       |       hfa6e2cd_3         141 KB  conda-forge
+    pymc-5.9.0                 |       hd8ed1ab_0          11 KB  conda-forge
+    pymc-base-5.9.0            |     pyhd8ed1ab_0         308 KB  conda-forge
+    pyparsing-3.1.1            |     pyhd8ed1ab_0          87 KB  conda-forge
+    pytensor-2.13.1            |  py311hf62ec03_0         2.8 MB
+    pytensor-base-2.17.3       |  py311hf63dbb6_0         2.1 MB  conda-forge
+    python-3.11.6              |h2628c8c_0_cpython        17.3 MB  conda-forge
+    python-dateutil-2.8.2      |     pyhd8ed1ab_0         240 KB  conda-forge
+    python-graphviz-0.20.1     |     pyh22cad53_0          35 KB  conda-forge
+    python-tzdata-2023.3       |     pyhd8ed1ab_0         140 KB  conda-forge
+    python_abi-3.11            |          4_cp311           7 KB  conda-forge
+    pytz-2023.3.post1          |     pyhd8ed1ab_0         183 KB  conda-forge
+    scipy-1.11.3               |  py311h0b4df5a_1        14.2 MB  conda-forge
+    setuptools-68.2.2          |     pyhd8ed1ab_0         454 KB  conda-forge
+    six-1.16.0                 |     pyh6c4a22f_0          14 KB  conda-forge
+    tbb-2021.10.0              |       h91493d7_1         153 KB  conda-forge
+    tk-8.6.13                  |       hcfcfb64_0         3.3 MB  conda-forge
+    toolz-0.12.0               |     pyhd8ed1ab_0          48 KB  conda-forge
+    typing-extensions-4.8.0    |       hd8ed1ab_0          10 KB  conda-forge
+    typing_extensions-4.8.0    |     pyha770c72_0          34 KB  conda-forge
+    tzdata-2023c               |       h71feb2d_0         115 KB  conda-forge
+    ucrt-10.0.22621.0          |       h57928b3_0         1.2 MB  conda-forge
+    vc-14.3                    |      h64f974e_17          17 KB  conda-forge
+    vc14_runtime-14.36.32532   |      hdcecf7f_17         722 KB  conda-forge
+    vs2015_runtime-14.36.32532 |      h05e6639_17          17 KB  conda-forge
+    wheel-0.41.2               |     pyhd8ed1ab_0          56 KB  conda-forge
+    xarray-2023.9.0            |     pyhd8ed1ab_0         685 KB  conda-forge
+    xarray-einstats-0.6.0      |     pyhd8ed1ab_0          32 KB  conda-forge
+    xorg-kbproto-1.0.7         |    hcd874cb_1002          28 KB  conda-forge
+    xorg-libice-1.1.1          |       hcd874cb_0         154 KB  conda-forge
+    xorg-libsm-1.2.4           |       hcd874cb_0          84 KB  conda-forge
+    xorg-libx11-1.8.7          |       hefa74cf_0         797 KB  conda-forge
+    xorg-libxau-1.0.11         |       hcd874cb_0          50 KB  conda-forge
+    xorg-libxdmcp-1.1.3        |       hcd874cb_0          66 KB  conda-forge
+    xorg-libxext-1.3.4         |       hcd874cb_2         217 KB  conda-forge
+    xorg-libxpm-3.5.17         |       hcd874cb_0         191 KB  conda-forge
+    xorg-libxt-1.3.0           |       hcd874cb_1         656 KB  conda-forge
+    xorg-xextproto-7.3.0       |    hcd874cb_1003          30 KB  conda-forge
+    xorg-xproto-7.0.31         |    hcd874cb_1007          74 KB  conda-forge
+    xz-5.2.6                   |       h8d14728_0         213 KB  conda-forge
+    zlib-1.2.13                |       hcfcfb64_5         105 KB  conda-forge
+    zstd-1.5.5                 |       h12be248_0         335 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:       334.1 MB
+
+The following NEW packages will be INSTALLED:
+
+  arviz              conda-forge/noarch::arviz-0.16.1-pyhd8ed1ab_1 
+  brotli             conda-forge/win-64::brotli-1.1.0-hcfcfb64_1 
+  brotli-bin         conda-forge/win-64::brotli-bin-1.1.0-hcfcfb64_1 
+  bzip2              conda-forge/win-64::bzip2-1.0.8-h8ffe710_4 
+  ca-certificates    conda-forge/win-64::ca-certificates-2023.7.22-h56e8100_0 
+  cached-property    conda-forge/noarch::cached-property-1.5.2-hd8ed1ab_1 
+  cached_property    conda-forge/noarch::cached_property-1.5.2-pyha770c72_1 
+  cachetools         conda-forge/noarch::cachetools-5.3.1-pyhd8ed1ab_0 
+  cairo              conda-forge/win-64::cairo-1.18.0-h1fef639_0 
+  certifi            conda-forge/noarch::certifi-2023.7.22-pyhd8ed1ab_0 
+  cloudpickle        conda-forge/noarch::cloudpickle-3.0.0-pyhd8ed1ab_0 
+  cons               conda-forge/noarch::cons-0.4.6-pyhd8ed1ab_0 
+  contourpy          conda-forge/win-64::contourpy-1.1.1-py311h005e61a_1 
+  cycler             conda-forge/noarch::cycler-0.12.1-pyhd8ed1ab_0 
+  etuples            conda-forge/noarch::etuples-0.3.9-pyhd8ed1ab_0 
+  expat              conda-forge/win-64::expat-2.5.0-h63175ca_1 
+  fastprogress       conda-forge/noarch::fastprogress-1.0.3-pyhd8ed1ab_0 
+  filelock           conda-forge/noarch::filelock-3.12.4-pyhd8ed1ab_0 
+  font-ttf-dejavu-s~ conda-forge/noarch::font-ttf-dejavu-sans-mono-2.37-hab24e00_0 
+  font-ttf-inconsol~ conda-forge/noarch::font-ttf-inconsolata-3.000-h77eed37_0 
+  font-ttf-source-c~ conda-forge/noarch::font-ttf-source-code-pro-2.038-h77eed37_0 
+  font-ttf-ubuntu    conda-forge/noarch::font-ttf-ubuntu-0.83-hab24e00_0 
+  fontconfig         conda-forge/win-64::fontconfig-2.14.2-hbde0cde_0 
+  fonts-conda-ecosy~ conda-forge/noarch::fonts-conda-ecosystem-1-0 
+  fonts-conda-forge  conda-forge/noarch::fonts-conda-forge-1-0 
+  fonttools          conda-forge/win-64::fonttools-4.43.1-py311ha68e1ae_0 
+  freetype           conda-forge/win-64::freetype-2.12.1-hdaf720e_2 
+  fribidi            conda-forge/win-64::fribidi-1.0.10-h8d14728_0 
+  getopt-win32       conda-forge/win-64::getopt-win32-0.1-hcfcfb64_1 
+  gettext            conda-forge/win-64::gettext-0.21.1-h5728263_0 
+  graphite2          conda-forge/win-64::graphite2-1.3.13-1000 
+  graphviz           conda-forge/win-64::graphviz-8.1.0-h51cb2cd_0 
+  gts                conda-forge/win-64::gts-0.7.6-h6b5321d_4 
+  h5netcdf           conda-forge/noarch::h5netcdf-1.2.0-pyhd8ed1ab_0 
+  h5py               conda-forge/win-64::h5py-3.10.0-nompi_py311h0d04526_100 
+  harfbuzz           conda-forge/win-64::harfbuzz-8.2.1-h7ab893a_0 
+  hdf5               conda-forge/win-64::hdf5-1.14.2-nompi_h73e8ff5_100 
+  icu                conda-forge/win-64::icu-73.2-h63175ca_0 
+  intel-openmp       conda-forge/win-64::intel-openmp-2023.2.0-h57928b3_50496 
+  kiwisolver         conda-forge/win-64::kiwisolver-1.4.5-py311h005e61a_1 
+  krb5               conda-forge/win-64::krb5-1.21.2-heb0366b_0 
+  lcms2              conda-forge/win-64::lcms2-2.15-h67d730c_3 
+  lerc               conda-forge/win-64::lerc-4.0.0-h63175ca_0 
+  libaec             conda-forge/win-64::libaec-1.1.2-h63175ca_1 
+  libblas            conda-forge/win-64::libblas-3.9.0-19_win64_mkl 
+  libbrotlicommon    conda-forge/win-64::libbrotlicommon-1.1.0-hcfcfb64_1 
+  libbrotlidec       conda-forge/win-64::libbrotlidec-1.1.0-hcfcfb64_1 
+  libbrotlienc       conda-forge/win-64::libbrotlienc-1.1.0-hcfcfb64_1 
+  libcblas           conda-forge/win-64::libcblas-3.9.0-19_win64_mkl 
+  libcurl            conda-forge/win-64::libcurl-8.4.0-hd5e4a3a_0 
+  libdeflate         conda-forge/win-64::libdeflate-1.19-hcfcfb64_0 
+  libexpat           conda-forge/win-64::libexpat-2.5.0-h63175ca_1 
+  libffi             conda-forge/win-64::libffi-3.4.2-h8ffe710_5 
+  libgd              conda-forge/win-64::libgd-2.3.3-h312136b_9 
+  libglib            conda-forge/win-64::libglib-2.78.0-he8f3873_0 
+  libhwloc           conda-forge/win-64::libhwloc-2.9.3-default_haede6df_1009 
+  libiconv           conda-forge/win-64::libiconv-1.17-h8ffe710_0 
+  libjpeg-turbo      conda-forge/win-64::libjpeg-turbo-3.0.0-hcfcfb64_1 
+  liblapack          conda-forge/win-64::liblapack-3.9.0-19_win64_mkl 
+  libpng             conda-forge/win-64::libpng-1.6.39-h19919ed_0 
+  libsqlite          conda-forge/win-64::libsqlite-3.43.2-hcfcfb64_0 
+  libssh2            conda-forge/win-64::libssh2-1.11.0-h7dfc565_0 
+  libtiff            conda-forge/win-64::libtiff-4.6.0-h6e2ebb7_2 
+  libwebp            conda-forge/win-64::libwebp-1.3.2-hcfcfb64_1 
+  libwebp-base       conda-forge/win-64::libwebp-base-1.3.2-hcfcfb64_0 
+  libxcb             conda-forge/win-64::libxcb-1.15-hcd874cb_0 
+  libxml2            conda-forge/win-64::libxml2-2.11.5-hc3477c8_1 
+  libzlib            conda-forge/win-64::libzlib-1.2.13-hcfcfb64_5 
+  logical-unificati~ conda-forge/noarch::logical-unification-0.4.6-pyhd8ed1ab_0 
+  m2w64-gcc-libgfor~ conda-forge/win-64::m2w64-gcc-libgfortran-5.3.0-6 
+  m2w64-gcc-libs     conda-forge/win-64::m2w64-gcc-libs-5.3.0-7 
+  m2w64-gcc-libs-co~ conda-forge/win-64::m2w64-gcc-libs-core-5.3.0-7 
+  m2w64-gmp          conda-forge/win-64::m2w64-gmp-6.1.0-2 
+  m2w64-libwinpthre~ conda-forge/win-64::m2w64-libwinpthread-git-5.0.0.4634.697f757-2 
+  matplotlib-base    conda-forge/win-64::matplotlib-base-3.8.0-py311h6e989c2_2 
+  minikanren         conda-forge/noarch::minikanren-1.0.3-pyhd8ed1ab_0 
+  mkl                conda-forge/win-64::mkl-2023.2.0-h6a75c08_50496 
+  msys2-conda-epoch  conda-forge/win-64::msys2-conda-epoch-20160418-1 
+  multipledispatch   conda-forge/noarch::multipledispatch-0.6.0-py_0 
+  munkres            conda-forge/noarch::munkres-1.1.4-pyh9f0ad1d_0 
+  numpy              conda-forge/win-64::numpy-1.25.2-py311h0b4df5a_0 
+  openjpeg           conda-forge/win-64::openjpeg-2.5.0-h3d672ee_3 
+  openssl            conda-forge/win-64::openssl-3.1.3-hcfcfb64_0 
+  packaging          conda-forge/noarch::packaging-23.2-pyhd8ed1ab_0 
+  pandas             conda-forge/win-64::pandas-2.1.1-py311hf63dbb6_1 
+  pango              conda-forge/win-64::pango-1.50.14-h07c897b_2 
+  pcre2              conda-forge/win-64::pcre2-10.40-h17e33f8_0 
+  pillow             conda-forge/win-64::pillow-10.1.0-py311h4dd8a23_0 
+  pip                conda-forge/noarch::pip-23.3-pyhd8ed1ab_0 
+  pixman             conda-forge/win-64::pixman-0.42.2-h63175ca_0 
+  pthread-stubs      conda-forge/win-64::pthread-stubs-0.4-hcd874cb_1001 
+  pthreads-win32     conda-forge/win-64::pthreads-win32-2.9.1-hfa6e2cd_3 
+  pymc               conda-forge/noarch::pymc-5.9.0-hd8ed1ab_0 
+  pymc-base          conda-forge/noarch::pymc-base-5.9.0-pyhd8ed1ab_0 
+  pyparsing          conda-forge/noarch::pyparsing-3.1.1-pyhd8ed1ab_0 
+  pytensor           pkgs/main/win-64::pytensor-2.13.1-py311hf62ec03_0 
+  pytensor-base      conda-forge/win-64::pytensor-base-2.17.3-py311hf63dbb6_0 
+  python             conda-forge/win-64::python-3.11.6-h2628c8c_0_cpython 
+  python-dateutil    conda-forge/noarch::python-dateutil-2.8.2-pyhd8ed1ab_0 
+  python-graphviz    conda-forge/noarch::python-graphviz-0.20.1-pyh22cad53_0 
+  python-tzdata      conda-forge/noarch::python-tzdata-2023.3-pyhd8ed1ab_0 
+  python_abi         conda-forge/win-64::python_abi-3.11-4_cp311 
+  pytz               conda-forge/noarch::pytz-2023.3.post1-pyhd8ed1ab_0 
+  scipy              conda-forge/win-64::scipy-1.11.3-py311h0b4df5a_1 
+  setuptools         conda-forge/noarch::setuptools-68.2.2-pyhd8ed1ab_0 
+  six                conda-forge/noarch::six-1.16.0-pyh6c4a22f_0 
+  tbb                conda-forge/win-64::tbb-2021.10.0-h91493d7_1 
+  tk                 conda-forge/win-64::tk-8.6.13-hcfcfb64_0 
+  toolz              conda-forge/noarch::toolz-0.12.0-pyhd8ed1ab_0 
+  typing-extensions  conda-forge/noarch::typing-extensions-4.8.0-hd8ed1ab_0 
+  typing_extensions  conda-forge/noarch::typing_extensions-4.8.0-pyha770c72_0 
+  tzdata             conda-forge/noarch::tzdata-2023c-h71feb2d_0 
+  ucrt               conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0 
+  vc                 conda-forge/win-64::vc-14.3-h64f974e_17 
+  vc14_runtime       conda-forge/win-64::vc14_runtime-14.36.32532-hdcecf7f_17 
+  vs2015_runtime     conda-forge/win-64::vs2015_runtime-14.36.32532-h05e6639_17 
+  wheel              conda-forge/noarch::wheel-0.41.2-pyhd8ed1ab_0 
+  xarray             conda-forge/noarch::xarray-2023.9.0-pyhd8ed1ab_0 
+  xarray-einstats    conda-forge/noarch::xarray-einstats-0.6.0-pyhd8ed1ab_0 
+  xorg-kbproto       conda-forge/win-64::xorg-kbproto-1.0.7-hcd874cb_1002 
+  xorg-libice        conda-forge/win-64::xorg-libice-1.1.1-hcd874cb_0 
+  xorg-libsm         conda-forge/win-64::xorg-libsm-1.2.4-hcd874cb_0 
+  xorg-libx11        conda-forge/win-64::xorg-libx11-1.8.7-hefa74cf_0 
+  xorg-libxau        conda-forge/win-64::xorg-libxau-1.0.11-hcd874cb_0 
+  xorg-libxdmcp      conda-forge/win-64::xorg-libxdmcp-1.1.3-hcd874cb_0 
+  xorg-libxext       conda-forge/win-64::xorg-libxext-1.3.4-hcd874cb_2 
+  xorg-libxpm        conda-forge/win-64::xorg-libxpm-3.5.17-hcd874cb_0 
+  xorg-libxt         conda-forge/win-64::xorg-libxt-1.3.0-hcd874cb_1 
+  xorg-xextproto     conda-forge/win-64::xorg-xextproto-7.3.0-hcd874cb_1003 
+  xorg-xproto        conda-forge/win-64::xorg-xproto-7.0.31-hcd874cb_1007 
+  xz                 conda-forge/win-64::xz-5.2.6-h8d14728_0 
+  zlib               conda-forge/win-64::zlib-1.2.13-hcfcfb64_5 
+  zstd               conda-forge/win-64::zstd-1.5.5-h12be248_0 
+
+
+Proceed ([y]/n)? 
